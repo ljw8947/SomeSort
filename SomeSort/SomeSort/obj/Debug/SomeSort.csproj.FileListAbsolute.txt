@@ -1,0 +1,13 @@
+d:\Users\jwlv\source\repos\SomeSort\SomeSort\obj\Debug\SomeSort.csprojResolveAssemblyReference.cache
+d:\Users\jwlv\source\repos\SomeSort\SomeSort\obj\Debug\SomeSort.csproj.CoreCompileInputs.cache
+d:\Users\jwlv\source\repos\SomeSort\SomeSort\bin\Debug\SomeSort.exe.config
+d:\Users\jwlv\source\repos\SomeSort\SomeSort\bin\Debug\SomeSort.exe
+d:\Users\jwlv\source\repos\SomeSort\SomeSort\bin\Debug\SomeSort.pdb
+d:\Users\jwlv\source\repos\SomeSort\SomeSort\obj\Debug\SomeSort.exe
+d:\Users\jwlv\source\repos\SomeSort\SomeSort\obj\Debug\SomeSort.pdb
+G:\github\SomeSort\SomeSort\SomeSort\bin\Debug\SomeSort.exe.config
+G:\github\SomeSort\SomeSort\SomeSort\obj\Debug\SomeSort.exe
+G:\github\SomeSort\SomeSort\SomeSort\obj\Debug\SomeSort.pdb
+G:\github\SomeSort\SomeSort\SomeSort\obj\Debug\SomeSort.csprojResolveAssemblyReference.cache
+G:\github\SomeSort\SomeSort\SomeSort\bin\Debug\SomeSort.exe
+G:\github\SomeSort\SomeSort\SomeSort\bin\Debug\SomeSort.pdb
